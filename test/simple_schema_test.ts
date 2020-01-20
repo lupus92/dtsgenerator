@@ -174,8 +174,7 @@ describe('simple schema test', () => {
         integer: number;
         null?: null;
         number?: number;
-        object?: {
-        };
+        object?: {};
         string?: string;
         any?: any;
         undefined?: undefined;
